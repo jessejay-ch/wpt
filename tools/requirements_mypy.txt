@@ -5,7 +5,7 @@ typed-ast==1.5.4
 types-atomicwrites==1.4.5
 types-python-dateutil==2.8.19
 types-PyYAML==6.0.12.2
-types-requests==2.28.11.5
+types-requests==2.28.11.12
 types-setuptools==65.6.0.2
 types-six==1.16.19
 types-ujson==5.6.0.0
